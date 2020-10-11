@@ -240,6 +240,18 @@
     -->
     <country iso="be" allowed="true" />
 
+    <!--Enable recording for Bangladesh:
+         No clear definition exists on the matter of call recordings being made by one side.
+         Depending on whether said call recording was made and/or published with malicious intent,
+         it may or may not be admissible in court, and/or punishable by law. There are a number of
+         precedents and legal definitions, which are available below.
+
+         Legal discussion:
+           https://www.thedailystar.net/news/your-advocate-2
+           https://www.dhakatribune.com/bangladesh/law-rights/2018/01/30/recording-illegal-activity-secret-espionage/
+    -->
+    <country iso="bd" allowed="true" />
+
     <!-- Enable recording for Bulgaria:
          Article 32(2) of the Bulgarian Constitution states that it is an inviolable right for
          people to not be followed, photographed, recorded (audio and/or video) without being
